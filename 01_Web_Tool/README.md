@@ -2,8 +2,6 @@
 
 > A research-backed, interactive web application for assessing organisational AI readiness across eight key dimensions — grounded in a PRISMA 2020 Systematic Literature Review of 34 frameworks.
 
-**Live Demo:** [https://9a15i26h.scispace.co](https://9a15i26h.scispace.co)
-
 ---
 
 ## Table of Contents
